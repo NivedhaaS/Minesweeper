@@ -1,5 +1,4 @@
 Name: Nivedhaa Sankaran
-Section: 10828
 UFL email: nivedhaasankaran@ufl.edu
 System: Windows 64
 Compiler: gcc
